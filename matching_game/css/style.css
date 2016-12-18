@@ -1,0 +1,29 @@
+a {
+  display: inline-block;
+  width: 300px;
+  height: 200px;
+  background-color: #0066cc;
+  color: #eee;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 100px;
+  margin-left: 121px;
+  margin-top: 83px;
+  cursor: pointer;
+}
+
+body {
+  background-color: #eee;
+}
+
+.stop {
+  pointer-events: none;
+  cursor: none;
+}
+
+h1 {
+  font-size: 278px;
+  position: absolute;
+  top: 6%;
+  left: 16%;
+}
